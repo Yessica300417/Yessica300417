@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Idiomas y herramientas:</h3>
 <p align = "left"> 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
     <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaccionar" width="40" height="40"/> 
   </a> 
 </p>
-<--alt = "reaccionar" width = "40" height = "40" /> </a> </p>alt = "reaccionar" width = "40" height = "40" /> </a> </p>-->
+<!--alt = "reaccionar" width = "40" height = "40" /> </a> </p>alt = "reaccionar" width = "40" height = "40" /> </a> </p>-->
