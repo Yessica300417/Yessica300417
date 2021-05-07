@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-![Yessica300417's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessica300417&show_icons=true&theme=radical)](https://github.com/Yessica300417/Yessica300417/blob/main/README.md)
+![Yessica300417's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessica300417&show_icons=true&theme=radical)]<!--(https://github.com/Yessica300417/Yessica300417/blob/main/README.md)-->
 
 ---
 
