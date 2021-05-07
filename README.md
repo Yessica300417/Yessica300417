@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/Yessica300417/Yessica300417/blob/main/README.md)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--alt = "reaccionar" width = "40" height = "40" /> </a> </p>alt = "reaccionar" width = "40" height = "40" /> </a> </p>-->
