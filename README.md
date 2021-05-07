@@ -1,4 +1,10 @@
-*<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="55"/>
+<div>
+  *<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="55"/>
+</div>
+
+*<p>Mi inquietud por la tecnología desde el bachilerato me llevo a tomar una decisión muy grande que tendría un gran impacto en mi vida, y <br>
+    fue postular a Laboratoria. 🧑‍💻</p>*
+
 
 <!--
 **Yessica300417/Yessica300417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/Yessica300417/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/Yessica300417/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/Yessica300417/Yessica300417/blob/main/README.md)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
