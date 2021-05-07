@@ -1,4 +1,4 @@
-<h1>*cursiva*¡Hola, soy Yessica!👋 *cursiva* </h1>
+<h1>*¡Hola, soy Yessica!👋* </h1>
 
 <!--
 **Yessica300417/Yessica300417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
