@@ -1,9 +1,12 @@
 <div>
-  *<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="55"/>
+  *<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="87"/>
 </div>
 
 *<p>Mi inquietud por la tecnología desde el bachilerato me llevo a tomar una decisión muy grande que tendría un gran impacto en mi vida, y <br>
-    fue postular a Laboratoria. 🧑‍💻</p>*
+    fue postular a Laboratoria.💻 <br>
+
+>Todo lo que seas capaz de creer eres capaz de conseguir.🧠 
+</p>*
 
 
 <!--
