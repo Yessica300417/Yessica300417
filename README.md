@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+* * *
 <h3>Idiomas y herramientas:</h3>
 <p align = "left"> 
   <a href="https://www.w3schools.com/css/" target="_blank">
