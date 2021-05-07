@@ -1,8 +1,8 @@
   *<h1>¡Hola, soy Yessica!👋 </h1>* <center><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld"/></center>
 
-*<p>Mi inquietud por la tecnología desde el bachilerato me llevo a tomar una decisión muy grande que tendría un gran impacto en mi vida, y <br>
+<p>Mi inquietud por la tecnología desde el bachilerato me llevo a tomar una decisión muy grande que tendría un gran impacto en mi vida, y <br>
     fue postular a Laboratoria.💻 <br> 
-</p>*
+</p>
 
 >Todo lo que seas capaz de creer eres capaz de conseguir.🧠
 
