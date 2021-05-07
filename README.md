@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 <h3>Idiomas y herramientas:</h3>
 <p align = "left"> 
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessica300417&show_icons=true&theme=radical)](https://github.com/Yessica300417/Yessica300417/blob/main/README.md)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
