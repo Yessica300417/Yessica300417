@@ -1,4 +1,4 @@
-*<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="35"/>
+*<h1>¡Hola, soy Yessica!👋 </h1>* <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="helloworld" width="55"/>
 
 <!--
 **Yessica300417/Yessica300417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
