@@ -1,4 +1,4 @@
-*<h1>¡Hola, soy Yessica!👋 </h1>* <iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+*<h1>¡Hola, soy Yessica!👋 </h1>* 
 
 <!--
 **Yessica300417/Yessica300417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessica300417&show_icons=true&theme=radical)](https://github.com/Yessica300417/Yessica300417/blob/main/README.md)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yessica300417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--alt = "reaccionar" width = "40" height = "40" /> </a> </p>alt = "reaccionar" width = "40" height = "40" /> </a> </p>-->
